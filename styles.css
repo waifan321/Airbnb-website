@@ -1,32 +1,32 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,500;1,500&display=swap');
 
 html, head{ 
-    background-color: #FFFFCC;
-    font-family: Arial, sans-serif;
+    background-color: #448492;
+    font-family: Amasis MT W01 italic,Times,serif;
     text-align: left;
     padding: 10px;
 }
 
 title{
-    color: #333;
+    color: #f7e7b9;
     font-size: 24px;
     margin: 0;
     padding: 0;
 }
 
-img{
+img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
-    height: 800px;
+    width: 80%;
+    height: auto;
 }
 
 h1{
-    color: #333;
-    font-family: 'Montserrat', sans-serif;
-    font-size: 90px;
-    text-align: center;
+    color: #f7e7b9;
+    font-family: 'Amasis MT W01 italic,Times,serif';
+    font-size: 50px;
+    text-align: left;
     margin: 0;
     padding: 0;
 }
@@ -39,9 +39,16 @@ p{
 }
 
 body {
-    color: #FFFFCC;
+    color: #f7e7b9;
     margin: 0;
     padding: 0;
     text-align: left;
 }
 
+div {
+    background-color: #448492;
+    font-size: 30px;
+    margin: 0px;
+    padding: 10px;
+    text-align: right;
+}
